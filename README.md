@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Internal documentation](./docs#documentation)
+Test of New Wallet Features
 
 ## Building locally
 
